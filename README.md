@@ -91,6 +91,3 @@ I couldn't be more excited to embark on this new path, refine my skills, and con
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
