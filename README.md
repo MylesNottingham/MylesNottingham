@@ -66,12 +66,12 @@ I couldn't be more excited to embark on this new path, refine my skills, and con
 
 <img src="https://github-readme-stats.vercel.app/api?username=MylesNottingham&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
-
 </td><td valign="top" width="39%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MylesNottingham&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
 
 <br />
