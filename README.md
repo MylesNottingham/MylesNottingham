@@ -16,8 +16,6 @@ I couldn't be more excited to embark on this new path, refine my skills, and con
 
 ---
 
-<br/>
-
 ## Rapidfire
 
 <table><tr><td valign="top" width="50%">
@@ -40,8 +38,6 @@ I couldn't be more excited to embark on this new path, refine my skills, and con
 
 ---
 
-<br/>
-
 ## Languages and Tools
 <div align="center">
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
@@ -58,8 +54,6 @@ I couldn't be more excited to embark on this new path, refine my skills, and con
 </div>
 
 ---
-
-<br/>
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
