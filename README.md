@@ -12,7 +12,7 @@ Experienced industrial machine programmer turned backend web developer with a st
 
 My passion for Software Development began after a ten-year career as an industrial and home automation engineer where I sharpened my troubleshooting skills and honed my ability to design robust systems, primarily through programming PLCs.
 
-The COVID-19 pandemic underscored the importance of having a career that could be pursued universally, transferred across industries, and executed remotely. With this in mind, I recognized a unique opportunity to transition into Software Engineering. I completed several certification courses before ultimately enrolling full-time at The Turing School of Software & Design.
+The COVID-19 pandemic underscored the importance of having a career that could be pursued universally, transferred across industries, and executed remotely. With this in mind, I recognized a unique opportunity to transition into Software Engineering. I completed several certification courses before ultimately enrolling full-time at The Turing School of Software & Design. After graduating, I decided to further my education by pursuing a Bachelor of Science in Computer Science at Colorado State University Global.
 
 I couldn't be more excited to embark on this new path, refine my skills, and continue building innovative solutions.
 
