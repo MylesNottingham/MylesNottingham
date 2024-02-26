@@ -22,9 +22,9 @@ Feel free to reach out at MylesNottingham@gmail.com
 
 <table><tr><td valign="top" width="50%">
 
-- ⚙️ I’m currently attending [Turing School of Software & Design](https://turing.edu/)
+- ⚙️ I’m currently attending [Western Governors University](https://wgu.edu/)
 
-- 💎 I’m currently learning Ruby on Rails
+- 💎 I’m currently learning Java
 
 - ❓ Ask me about anything related to industrial electronics
 
