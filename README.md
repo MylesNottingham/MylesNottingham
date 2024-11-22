@@ -8,9 +8,7 @@
 </a>
 
 ### A little bit about me.
-Experienced Industrial Engineering Technician turned Software Engineer and IT Professional. I have a strong background in Ruby on Rails and am skilled in Python, SQL, HTML, CSS, and more. Passionate about test-driven development and maintaining clean, readable code. Proven track record in remote work and effective collaboration. Ready to leverage my diverse skill set to make an immediate impact on your team.
-
-I began my career change by earning a certification in IT Support, which gave me solid exposure to tech fundamentals and really opened my eyes to the various subfields that I could pursue in this industry. I decided that I wanted to further my education and specialize in software development, so I enrolled in the Backend Software Engineering program at Turing School of Software & Design - the first of only two accredited programming tech-schools in the nation recognized by the US Department of Education - where I graduated in 2023. I then wanted to solidify my tech foundations, so I enrolled at Pierpont Community & Technical College as a transfer student where I earned an Associate of Applied Science Degree in Information Systems. Not one to settle, I am now pursuing a Bachelor of Science Degree in Computer Science at Western Governors University, where I expect to graduate in 2025.
+Experienced Industrial Engineering Technician turned Software Engineer and IT Professional. I have a strong background in Ruby on Rails and am skilled in Python, SQL, HTML, CSS, and more. Passionate about test-driven development and maintaining clean, readable code. Proven track record in remote work and effective collaboration.
 
 I couldn't be more excited to embark on this new path, refine my skills, and continue building innovative solutions.
 
