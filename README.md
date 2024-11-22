@@ -10,8 +10,6 @@
 ### A little bit about me.
 Experienced Industrial Engineering Technician turned Software Engineer and IT Professional. I have a strong background in Ruby on Rails and am skilled in Python, SQL, HTML, CSS, and more. Passionate about test-driven development and maintaining clean, readable code. Proven track record in remote work and effective collaboration.
 
-I couldn't be more excited to embark on this new path, refine my skills, and continue building innovative solutions.
-
 Feel free to reach out at MylesNottingham@gmail.com
 
 ---
